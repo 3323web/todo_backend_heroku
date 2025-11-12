@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "../study_todo_backend-v2"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "study_todo-react"
+	}
+}
